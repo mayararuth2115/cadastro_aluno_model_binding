@@ -6,7 +6,7 @@ O projeto implementa um formulário de cadastro de aluno com validação de dado
 
 ## Funcionalidades
 
-Cadastro de Aluno 
-Validação de campos obrigatórios 
-Validação de e-mail
-Página de confirmação do cadastro 
+- Cadastro de Aluno 
+- Validação de campos obrigatórios 
+- Validação de e-mail
+- Página de confirmação do cadastro 
